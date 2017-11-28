@@ -15,7 +15,7 @@ import eu.unicorn.starter.plugins.GreetingsPlugin;
 
 public class App {
 	
-	private static final String userName = "John";
+	private static final String userName = "Jane";
 	
     public static void main( String[] args ) {
     	Set<Class<? extends GreetingsPlugin>> allClasses = getAllPlugins();
